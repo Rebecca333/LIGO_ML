@@ -5,6 +5,12 @@ Trying to reproduce and recreate the algorithms and results from: https://arxiv.
 
 LIGO data can be found: https://www.gw-openscience.org/data/
 
-Random Forest Algorithm: https://scikit-learn.org/stable/
+Presentation: https://drive.google.com/file/d/1qK00jFZKNR0eFqeIOiWJTR8L96C3XaS_/view?usp=sharing
 
-Genetic Programming Algorithm: https://kstaats.github.io/karoo_gp/
+## Genetic Programming Algorithm – Karoo
+
+Can be found at: https://kstaats.github.io/karoo_gp/
+
+## Random Forest Algorithm – Scikit
+
+Can be found at: https://scikit-learn.org/stable/
